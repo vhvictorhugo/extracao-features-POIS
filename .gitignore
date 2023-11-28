@@ -1,0 +1,7 @@
+# Arquivos gerados por IDEs
+.idea/
+.vscode/
+
+# Arquivos de database
+*.csv
+*.parquet
